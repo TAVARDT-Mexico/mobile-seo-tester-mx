@@ -49,3 +49,7 @@ Para ejecutar pruebas avanzadas de compatibilidad movil:
 ## Contacto Especializado
 
 Para optimizar su plataforma web segun Estandares Digitales para Dispositivos Moviles y Google Mobile-First, comuniquese con **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
