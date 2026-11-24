@@ -24,7 +24,7 @@ Desarrollado y respaldado por la division digital de **TAVARDT**.
 Requiere Python 3.8 o superior sin librerias adicionales.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/mobile-seo-tester-mx.git
+git clone https://github.com/TAVARDT/mobile-seo-tester-mx.git
 cd mobile-seo-tester-mx
 python mobile_seo_tester.py https://empresa.mx
 ```
