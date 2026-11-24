@@ -1,14 +1,13 @@
 # Probador de SEO Movil y Experiencia Responsiva
 
 [![Probador SEO Movil](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/mx/prueba-seo-movil/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Mexico-00C853.svg)](https://ag.tavardt.com/mx/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Verificacion de configuracion viewport, dimensionamiento de contenido y experiencia movil optimizada.
 
-Desarrollado y respaldado por la division digital de **[TAVARDT Mexico](https://ag.tavardt.com/mx/)**.
+Desarrollado y respaldado por la division digital de **TAVARDT Mexico**.
 
----
+***
 
 ## Capacidades de Diagnostico de SEO Movil
 
@@ -18,7 +17,7 @@ Desarrollado y respaldado por la division digital de **[TAVARDT Mexico](https://
 * **Verificacion de Fuentes Legibles**: Deteccion de textos de tamano inferior a los umbrales de lectura comoda.
 * **Indice de Desempeno Mobile-First**: Evaluacion integral de 0 a 100 para optimizacion de comercio electronico y portales.
 
----
+***
 
 ## Instalacion y Uso
 
@@ -33,20 +32,20 @@ python mobile_seo_tester.py https://empresa.mx
 Generacion de reporte en JSON:
 
 ```bash
-python mobile_seo_tester.py https://empresa.mx --json
+python mobile_seo_tester.py https://empresa.mx -json
 ```
 
----
+***
 
 ## Herramienta en Linea
 
 Para ejecutar pruebas avanzadas de compatibilidad movil:
 
-* **[Prueba de SEO Movil en Mexico](https://tools.tavardt.com/mx/prueba-seo-movil/)**
+* **Prueba de SEO Movil en Mexico**
 * **[Portal TAVARDT Mexico](https://ag.tavardt.com/mx/)**
 
----
+***
 
 ## Contacto Especializado
 
-Para optimizar su plataforma web segun Estandares Digitales para Dispositivos Moviles y Google Mobile-First, comuniquese con **[TAVARDT Mexico](https://ag.tavardt.com/mx/contacto/)**.
+Para optimizar su plataforma web segun Estandares Digitales para Dispositivos Moviles y Google Mobile-First, comuniquese con **TAVARDT Mexico**.
