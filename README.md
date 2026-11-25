@@ -6,8 +6,6 @@
 
 Verificacion de configuracion viewport, dimensionamiento de contenido y experiencia movil optimizada.
 
-Desarrollado y respaldado por la division digital de **TAVARDT**.
-
 ***
 
 ## Capacidades de Diagnostico de SEO Movil
@@ -38,15 +36,6 @@ python mobile_seo_tester.py https://empresa.mx -json
 
 ***
 
-## Herramienta en Linea
-
-Para ejecutar pruebas avanzadas de compatibilidad movil:
-
-* **Prueba de SEO Movil en Mexico**
-* **[Portal TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Contacto Especializado
 
 Para optimizar su plataforma web segun Estandares Digitales para Dispositivos Moviles y Google Mobile-First, comuniquese con **TAVARDT**.
@@ -62,7 +51,7 @@ Para optimizar su plataforma web segun Estandares Digitales para Dispositivos Mo
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
